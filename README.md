@@ -1,53 +1,123 @@
-# 👋 Hey there! I'm Arnav Kumar
+# Hi, I'm Arnav Kumar 👋
 
-B.Tech Computer Engineering | K.J. Somaiya College of Engineering  
-MERN Stack Developer | 💻 Java, JavaScript | ⚡ DSA Enthusiast   
+**Backend & Integrations Engineer**  
+Node.js · REST APIs · Real-Time Systems · AWS
 
----
-
-## 🚀 About Me
-
-- MERN Stack Developer (Frontend + Backend)
-- Passionate about crafting clean UI and building scalable full-stack apps
-- Freelancing | Team Projects | Real-world Problem Solver
-- Currently diving into: AI & Machine Learning
+I build **production-grade backend systems** with a focus on
+API reliability, real-time communication, and end-to-end system behavior.
 
 ---
 
-## 💼 Projects
+## 🧠 About Me
 
-- **Agritech App** *(under NDA)*  
-  Built an end-to-end solution for agricultural logistics and data management. Cannot share details due to confidentiality.
-
-- [**Portfolio Website**](https://arnav-s-portfolio.web.app)  
-  My personal portfolio showcasing projects, skills, and experience. Built with React and hosted on Firebase.
-
-- **Gym Website** *(private repo)*  
-  Developed the frontend for a local gym to manage schedules, plans, and client interaction. Deployment in progress.
-
-- **Chat Application** *(coming soon)*  
-  A real-time chat app using Socket.io and Node.js. Features include typing indicators, room-based chats, and active user tracking.
+- Software engineer with hands-on experience building **backend systems used in real-world workflows**
+- Strong in **API design, debugging, and system integration**, especially for production environments
+- Experienced with **Node.js, REST APIs, MongoDB, WebSockets, and cloud deployments**
+- Comfortable working with **Postman, logs, webhooks, and live systems** to troubleshoot and validate integrations
+- Solid foundation in **computer networks, databases, operating systems, and distributed systems**
 
 ---
 
-## 📫 Let's Connect
+## 💼 Experience
 
-- Email: kumarnarav028@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/arnav-kumar-0873322aa/)  
-- [Portfolio](https://arnav-s-portfolio.web.app)  
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Backend Engineer Intern — Exploria *(Apr 2025 – Jun 2025)*
+- Designed and implemented **RESTful APIs in Node.js** for an AI-powered production platform
+- Tested, debugged, and validated API behavior using **Postman and application logs**
+- Integrated backend services with **AWS Lambda and S3** for scalable file processing
+- Collaborated with frontend and product teams to translate requirements into backend solutions
+- Contributed to **modular, testable backend architecture** improving system reliability
 
 ---
 
-🛠️ Always building | 🚀 Always learning | 🤝 Always collaborating
+### Web Developer Intern — Grabtek *(Nov 2024 – Feb 2025)*
+- Modernized existing applications using **React and ES6**, improving maintainability and performance
+- Optimized frontend load times and rendering efficiency for better real-world UX
+- Participated in **code reviews and production debugging workflows**
+
+---
+
+### Freelance Web Developer *(2024 – Present)*
+- Designed and deployed a **production-grade React application** for a real client
+- Achieved **100% uptime since launch**
+- Focused on **performance optimization, system reliability, and clean UI/UX**
+- Worked directly with client requirements, translating business needs into technical solutions
+
+---
+
+## 🧩 Projects
+
+### 🔹 Bondy — Real-Time Support Platform
+**MERN Stack · Socket.IO · AWS S3 · Cloudinary**
+
+- Architected and deployed a **real-time backend system** supporting live updates
+- Designed secure **JWT-based authentication and authorization**
+- Integrated **AWS S3** for scalable and secure file storage
+- Implemented **rate limiting and validation logic** to prevent abuse
+- Owned end-to-end system behavior from API design to deployment and debugging
+
+---
+
+### 🔹 Real-Time Video Call Platform
+**WebRTC · JavaScript · STUN/TURN**
+
+- Built a **low-latency peer-to-peer communication system**
+- Configured STUN/TURN servers to ensure connectivity across networks
+- Debugged real-time connection issues caused by network constraints
+
+---
+
+### 🔹 Collaborative Study Platform
+**MERN Stack · JWT · REST APIs**
+
+- Built a multi-user platform with secure authentication
+- Designed backend services for scalability and cloud deployment
+
+---
+
+### 🔹 Open Source — Mongoose–Zod Schema Builder (npm)
+- Published an npm package enabling **type-safe schema validation** for Node.js
+- Designed for real-world usage with documentation and adoption in MERN projects
+
+---
+
+## 🛠️ Technical Skills
+
+**Backend & Integrations**
+- Node.js, Express.js
+- REST APIs, API Authentication (JWT)
+- Webhooks, Real-time Systems
+- MongoDB, PostgreSQL
+
+**Cloud & Deployment**
+- AWS (EC2, S3, Lambda, IAM)
+- Serverless deployments
+- CI/CD with GitHub Actions
+
+**Protocols & Systems**
+- HTTP, TCP/IP, DNS
+- WebSockets, Long/Short Polling
+
+**Tools**
+- Postman, Git, GitHub
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Engineering**  
+K J Somaiya College of Engineering *(2022 – 2026)*  
+
+Relevant Coursework:  
+Data Structures & Algorithms, DBMS, Computer Networks, Operating Systems, Analysis of Algorithms
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **kumarnarav028@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/arnav-kumar-0873322aa/
+- 🧠 GitHub: https://github.com/arnav14-dev
+
+---
+
+⚙️ Backend-first · Production-oriented · Learning by building real systems
