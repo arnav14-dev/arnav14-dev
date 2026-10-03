@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Arnav Kumar, Software Engineer, Backend and AI Systems</title>
+  <desc id="desc">1,000+ monthly active users, 4,000+ AI conversations a month, 380+ REST endpoints designed, 400+ npm downloads.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#121211" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.75" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fadeMask"><rect width="1200" height="360" fill="url(#fade)"/></mask>
+    <clipPath id="card"><rect x="0.5" y="0.5" width="1199" height="359" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="#f4f3ef"/>
+    <rect width="1200" height="360" fill="url(#grid)" mask="url(#fadeMask)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="14" fill="none" stroke="#dcd8cf"/>
+
+  <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1.4" fill="#67635c">
+    <rect x="56" y="53" width="9" height="9" fill="#0f2fb5"/>
+    <text x="76" y="62">SOFTWARE ENGINEER — BACKEND &amp; AI SYSTEMS</text>
+    <text x="1144" y="62" text-anchor="end">MUMBAI, IN · ARNAVLOGIC.COM</text>
+  </g>
+  <line x1="56" y1="84" x2="1144" y2="84" stroke="#121211"/>
+
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif">
+    <text x="52" y="178" font-size="92" font-weight="700" letter-spacing="-4" fill="#121211">Arnav Kumar</text>
+    <text x="56" y="222" font-size="24" fill="#34322e">I build production backend and AI systems, end to end.</text>
+  </g>
+
+  <line x1="56" y1="258" x2="1144" y2="258" stroke="#121211"/>
+  <g stroke="#dcd8cf">
+    <line x1="328" y1="258" x2="328" y2="332"/>
+    <line x1="600" y1="258" x2="600" y2="332"/>
+    <line x1="872" y1="258" x2="872" y2="332"/>
+  </g>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="30" font-weight="700" letter-spacing="-1" fill="#121211">
+    <text x="56" y="298">1,000+</text>
+    <text x="348" y="298">4,000+</text>
+    <text x="620" y="298">380+</text>
+    <text x="892" y="298">400+</text>
+  </g>
+  <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#948f86">
+    <text x="56" y="324">MONTHLY ACTIVE USERS</text>
+    <text x="348" y="324">AI CONVERSATIONS / MONTH</text>
+    <text x="620" y="324">REST ENDPOINTS DESIGNED</text>
+    <text x="892" y="324">NPM DOWNLOADS</text>
+  </g>
+</svg>
